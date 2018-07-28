@@ -1,0 +1,1 @@
+This game was named "Nightmares" but scripts, assets and ideas are property of https://unity3d.com/learn/tutorials/s/survival-shooter-tutorial
